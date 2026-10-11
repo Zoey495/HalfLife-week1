@@ -8,4 +8,5 @@ Starbie's schematic diagram
 
 
 Starbie's PCB
+
 <img width="537" height="494" alt="image" src="https://github.com/user-attachments/assets/3923d02b-5d23-4c53-8516-6b4b11ead2c1" />
