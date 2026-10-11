@@ -1,0 +1,4 @@
+arduino-ide_2.3.10_Linux_64bit.AppImage filter=lfs diff=lfs merge=lfs -text
+arduino-ide_2.3.10_Linux_64bit.AppImage[[:space:]] filter=lfs diff=lfs merge=lfs -text
+//home/zope/HalfLife/arduino-ide_2.3.10_Linux_64bit.AppImage filter=lfs diff=lfs merge=lfs -text
+*.AppImage filter=lfs diff=lfs merge=lfs -text
