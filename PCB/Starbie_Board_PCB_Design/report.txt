@@ -1,0 +1,11 @@
+Plotted to '/home/zope/Downloads/PCB/Starbie_Board_PCB_Design/StarBoy-F_Cu.gtl'.
+Plotted to '/home/zope/Downloads/PCB/Starbie_Board_PCB_Design/StarBoy-B_Cu.gbl'.
+Plotted to '/home/zope/Downloads/PCB/Starbie_Board_PCB_Design/StarBoy-F_Paste.gtp'.
+Plotted to '/home/zope/Downloads/PCB/Starbie_Board_PCB_Design/StarBoy-B_Paste.gbp'.
+Plotted to '/home/zope/Downloads/PCB/Starbie_Board_PCB_Design/StarBoy-F_Silkscreen.gto'.
+Plotted to '/home/zope/Downloads/PCB/Starbie_Board_PCB_Design/StarBoy-B_Silkscreen.gbo'.
+Plotted to '/home/zope/Downloads/PCB/Starbie_Board_PCB_Design/StarBoy-F_Mask.gts'.
+Plotted to '/home/zope/Downloads/PCB/Starbie_Board_PCB_Design/StarBoy-B_Mask.gbs'.
+Plotted to '/home/zope/Downloads/PCB/Starbie_Board_PCB_Design/StarBoy-Edge_Cuts.gm1'.
+Created Gerber job file '/home/zope/Downloads/PCB/Starbie_Board_PCB_Design/StarBoy-job.gbrjob'.
+Info: Done.
