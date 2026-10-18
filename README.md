@@ -9,7 +9,7 @@ There are two buttons, a screen, a chip, temperature/humidity sensor, and a gyro
 Using the two buttons, ideally, you would select a option out of four and cause the digital pet to take that action.
 The digital pet has 3 energy bars representing different things like sleep.
 
-This right here is the Starbie's (digital pet components design) schematic diagram
+This right here is the Starbie's (digital pet) schematic diagram
 
 <img width="498" height="494" alt="Screenshot at 2026-10-06 19-55-36" src="https://github.com/user-attachments/assets/6c1682b7-3db4-49e9-8fd5-ff0c01041995" />
 
