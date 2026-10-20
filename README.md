@@ -27,7 +27,7 @@ As of right now, it has only been designed and is not built yet.
 
 BOM
 ----------
-| Part | What it's for | Qty | Total | Vendor |
+| Part | What it's for | Qty | Price | Vendor |
 | --- | --- | --- | --- | --- |
 | [XIAO ESP32 C3](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) | Starbie's brain/CPU | 1  | $4.90 | [Seeed Studio](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) |
 | [0.96 OLED](https://www.amazon.com/dp/B0GBVWBWCR) | LED screen for starbie | 1 | $5.99 | [amazon](https://www.amazon.com/dp/B0GBVWBWCR) |
