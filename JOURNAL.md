@@ -4,9 +4,9 @@
 <!-- Generated: 2026-10-11T19:45:00.474Z -->
 
 > [!NOTE]
-> This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
+> This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmuxa7ax400qa01m36bdp28j3). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> A tiny motion-controlled digital pet, basically a desktop Tamagotchi. Totally not a Starboy.
+> A digital pet that can sit on your desk and perform 4 tasks based on its energy levels. I made mine a cat.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
